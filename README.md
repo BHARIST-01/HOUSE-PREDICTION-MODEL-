@@ -1,5 +1,7 @@
 # California House Price Prediction
 
+Live app: https://house-price-prediction-in-ml.streamlit.app/
+
 A small Streamlit app that estimates the median house value for a California district using a trained linear regression model. The project includes a Jupyter notebook for exploring the data and training the model.
 
 > **Note:** This is an educational estimate based on district-level data. It is not a guaranteed value for an individual home.
